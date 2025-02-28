@@ -1,6 +1,8 @@
 # Arrow Functions
 
-Defined as "syntactically compact alternative" to a regular function expression.
+Defined as "syntactically compact alternative" to a regular function expression. Or a concise way to write function expressions. Good for simple functions that you use only once.
+
+(parameters) => some code
 
 ```js
 // Normal syntax
